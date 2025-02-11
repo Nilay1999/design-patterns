@@ -1,9 +1,5 @@
 # Adapter Design Pattern - Payment Gateway Example
 
-This project demonstrates the **Adapter Design Pattern** using a real-world example of integrating multiple payment gateways into a single system. The adapter pattern allows incompatible interfaces to work together by converting the interface of one class into another that the client expects.
-
----
-
 ## Table of Contents
 
 1. [What is the Adapter Design Pattern?](#what-is-the-adapter-design-pattern)
